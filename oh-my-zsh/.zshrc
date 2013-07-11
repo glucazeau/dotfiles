@@ -37,7 +37,7 @@ source $ZSH/oh-my-zsh.sh
 # Customize to your needs...
 export PATH=/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/games:/home/guillaume/bin:/usr/local/sbin:/usr/sbin
 
-PROMPT="[%T] %n@%M %~ %# "
+iPROMPT="[%T] %n@%M %~ %# "
 
 # Reload timer
 schedprompt() {
